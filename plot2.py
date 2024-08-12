@@ -1,7 +1,7 @@
 # Chayanid Singrak
 # 6609618035
 
-import matplotlib.pyplot as plt  
+import matplotlib.pyplot as plt
 import numpy as np
 
 # Data: Year and Team Size with Company Colors
